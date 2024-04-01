@@ -1,7 +1,7 @@
 # Plans for the Project 📖
 
 ## Integrations:
-- LinkedIn (https://learn.microsoft.com/en-us/linkedin/consumer/)
+- LinkedIn (https://learn.microsoft.com/en-us/linkedin/consumer/) (https://www.linkedin.com/developers/apps)
 - Instagram (https://developers.facebook.com/docs/instagram-api)
 - WhatsApp 
 - Outlook
