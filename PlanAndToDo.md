@@ -1,11 +1,11 @@
 # Plans for the Project 📖
 
 ## Integrations:
-- LinkedIn
-- Instagram
-- WhatsApp
+- LinkedIn (https://learn.microsoft.com/en-us/linkedin/consumer/)
+- Instagram (https://developers.facebook.com/docs/instagram-api)
+- WhatsApp 
 - Outlook
-- Spotify
+- Spotify (https://developer.spotify.com/documentation/web-api)
 - AsusAura
 - WiFi management
 
