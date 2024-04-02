@@ -1,5 +1,6 @@
 # System imports
 import requests
+import str
 
 
 class LinkedInClient:
